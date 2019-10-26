@@ -10,8 +10,6 @@ class CreateExercises extends Component {
 
         this.onChangeUsername= this.onChangeUsername.bind(this);
         this.onChangeDescription= this.onChangeDescription.bind(this);
-        
-        
         this.onChangeFirst= this.onChangeFirst.bind(this);
         this.onChangeLast= this.onChangeLast.bind(this);
         this.onChangeGender= this.onChangeGender.bind(this);
